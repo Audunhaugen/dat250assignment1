@@ -1,5 +1,6 @@
 ## DAT250 EXPASS2 - Audun Wanvik Haugen
 * I had no big problems during the installation of JPA. Took some time to get familiar with the tool, but no problems.
+* There was some problems finding the diagram. Likely caused by me having an old version of intellij. Got taken care of and is working fine now.
 * [Link to my project](https://github.com/Audunhaugen/dat250-jpa-tutorial)
 
 
